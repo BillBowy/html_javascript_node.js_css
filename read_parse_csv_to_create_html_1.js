@@ -1,5 +1,6 @@
-// Okay, I can try to generate some code for that. Here is a possible JavaScript code 
-// that can copy a CSV file that includes a header into an HTML file:
+// code to create data.html file
+// all code backup in local folder
+// parse a CSV file that includes a header into an HTML file:
 
 //JavaScript
 //function myFunction() {
